@@ -1,22 +1,22 @@
 {
     "models": [
         "other/Evergarden",
+        "other/ramu",
         "Potion-Maker/Pio",
         "Potion-Maker/Tia",
         "ShizukuTalk/shizuku-48",
         "other/index",
         "other/aoba",
-        "other/umaru",
-        "other/ramu",
+        "other/umaru"
     ],
     "messages": [
         "你将不再是道具，而是人如其名的人",
+        "雷姆",
         "来自 Potion Maker 的 Pio 酱 ~",
         "来自 Potion Maker 的 Tia 酱 ~",
         "Shizuku Talk ！这里是 Shizuku ~",
         "茵蒂克丝",
         "我是凉风青叶前辈，今后请多多指教",
-        "干物妹小埋",
-        "雷姆",
+        "干物妹小埋"
     ]
 }
